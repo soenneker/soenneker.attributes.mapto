@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Attributes.MapTo.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Attributes.MapTo\Soenneker.Attributes.MapTo.csproj" />
     </ItemGroup>
 
     <ItemGroup>
