@@ -1,11 +1,10 @@
-﻿using Soenneker.Tests.Unit;
-using Xunit;
+using Soenneker.Tests.Unit;
 
 namespace Soenneker.Attributes.MapTo.Tests;
 
 public sealed class MapToAttributeTests : UnitTest
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 
